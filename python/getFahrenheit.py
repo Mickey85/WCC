@@ -6,4 +6,4 @@ def getFahrenheit(deg):
 
 deg=int(raw_input("Enter the degree in celsius \n"))
 Fahrenheit=(getFahrenheit(deg))
-print getFahrenheit(10)
+#print getFahrenheit(10)
